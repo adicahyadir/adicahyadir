@@ -13,7 +13,10 @@ Hi there! I'm **Adi**, also known as **EnigmaticAura**. I am passionate about **
 - 🖌️ UI/UX Design
 - 📝 Social Media Specialist
 - 🌐 Community Manager
-- ✍️ Copywriting for Web3 projects
+- ✍️ Copywriting 
+- 🖋️ Technical Writing 
+- 🛡️ QA Engineering 
+- 🖥️ IT Support
 
 ---
 
@@ -27,20 +30,25 @@ I work with a variety of technologies and tools to build seamless, interactive, 
 ---
 
 ### 🚀 Projects & Work
-- 🔗 Check out my recent articles on [Medium](https://adicahyadir.medium.com/).
-- 🐦 Stay updated with my thoughts on [Twitter](https://x.com/EnigmaticAura_).
+- 📚 Explore my detailed guides and articles on [**Enigmatic Aura GitBook**](https://enigmatics.gitbook.io/enigmatic-aura).
+- 📝 Read my latest articles on [**Medium**](https://adicahyadir.medium.com/).
+- 🐦 Stay updated with my thoughts on [**Twitter**](https://x.com/EnigmaticAura_).
 
 ---
 
 ### 🌐 Let's Connect!
 I'm always open to new ideas, collaborations, and conversations about the future of Web3, design, and community building. Feel free to reach out to me on:
 
-- Twitter: [@EnigmaticAura_](https://x.com/EnigmaticAura_)
-- Medium: [adicahyadir.medium.com](https://adicahyadir.medium.com/)
+- 🐦 Twitter: [@EnigmaticAura_](https://x.com/EnigmaticAura_)
+- 📖 Medium: [adicahyadir.medium.com](https://adicahyadir.medium.com/)
 
 <p align="center">
-  <img src="https://img.shields.io/twitter/follow/EnigmaticAura_?style=social" alt="Twitter Follow">
-  <img src="https://img.shields.io/badge/Medium-Follow%20me-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Follow">
+  <a href="https://x.com/EnigmaticAura_">
+    <img src="https://img.shields.io/twitter/follow/EnigmaticAura_?style=social" alt="Twitter Follow">
+  </a>
+  <a href="https://adicahyadir.medium.com/">
+    <img src="https://img.shields.io/badge/Medium-Follow%20me-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Follow">
+  </a>
 </p>
 
 ---
@@ -63,7 +71,7 @@ I'm on a mission to explore how design and technology intersect with the decentr
 ---
 
 ### 📫 How to Reach Me:
-For collaborations, opportunities, or just a friendly chat about Web3 and design, you can always connect with me on [Twitter](https://x.com/EnigmaticAura_) or [Medium](https://adicahyadir.medium.com/).
+For collaborations, opportunities, or just a friendly chat about Web3 and design, you can always connect with me on [Twitter](https://x.com/EnigmaticAura_), [Medium](https://adicahyadir.medium.com/), or check out my [GitBook](https://enigmatics.gitbook.io/enigmatic-aura).
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
