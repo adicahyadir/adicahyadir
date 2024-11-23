@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F7B93E&width=435&lines=Web+3.0+Enthusiast;UI%2FUX+Designer;Community+Manager;Social+Media+Specialist;Copywriter+Extraordinaire" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F7B93E&width=435&lines=Web+3.0+Enthusiast;UI%2FUX+Designer;Community+Manager;Social+Media+Specialist;Copywriter;Technical Writing;" alt="Typing SVG">
 </p>
 
 ---
