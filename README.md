@@ -1,77 +1,46 @@
-<h1 align="center">
-  Welcome to EnigmaticAura's GitHub! 👋
-</h1>
+<h1 align="center">Hey there 👋, I'm EnigmaticAura (Adi)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=F7B93E&width=435&lines=Web+3.0+Enthusiast;UI%2FUX+Designer;Community+Manager;Social+Media+Specialist;Copywriter;Technical+Writing" alt="Typing SVG">
+  <em>🌐 Web3 Enthusiast | 🧪 Testnet Explorer | 🛠️ Node Validator | 🎯 Retrodrops Hunter</em>
 </p>
 
 ---
 
-### 👋 About Me
-Hi there! I'm **Adi**, also known as **EnigmaticAura**. I am passionate about **Web 3.0**, **UI/UX Design**, and building engaging online communities. Here are some of the roles I specialize in:
-- 🖌️ UI/UX Design
-- 📝 Social Media Specialist
-- 🌐 Community Manager
-- ✍️ Copywriting 
-- 🖋️ Technical Writing 
-- 🛡️ QA Engineering 
-- 🖥️ IT Support
+### 🧑‍💼 Roles
+- 📝 Social Media Specialist  
+- 🌐 Community Manager  
+- ✍️ Copywriter & Technical Writer  
+- 🛡️ QA Engineering  
+- 🖥️ IT Support  
 
 ---
 
-### 🛠️ Tech Stack & Skills
-I work with a variety of technologies and tools to build seamless, interactive, and visually appealing applications. Here are some of the languages and frameworks I use:
+### 🧠 Learning & Tech Stack
+I’m constantly learning and growing with:
+- HTML (latest), Vue.js, PHP, Python  
+- Node.js, Hardhat.js, Solidity  
+- Laravel, CodeIgniter  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,tailwind,php,python,bootstrap,laravel,typescript,js,solidity&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,vue,php,python,nodejs,solidity,laravel,js&theme=light" />
 </p>
 
 ---
 
-### 🚀 Projects & Work
-- 📚 Explore my detailed guides and articles on [**Enigmatic Aura GitBook**](https://enigmatics.gitbook.io/enigmatic-aura).
-- 📝 Read my latest articles on [**Medium**](https://adicahyadir.medium.com/).
-- 🐦 Stay updated with my thoughts on [**Twitter**](https://x.com/EnigmaticAura_).
+### 🌐 Connect with Me
+- 🔗 [Linktree](https://linktr.ee/enigmaticaura)
+- 🐦 [Twitter / X](https://x.com/EnigmaticAura_)
+- 📷 [Instagram](https://www.instagram.com/enigmaticaura101)
+- 📘 [Facebook](https://www.facebook.com/enigmaticaura101/)
+- 🎥 [YouTube](https://www.youtube.com/@enigmaticaura101)
+- 💬 [Telegram](https://t.me/enigmaticaura404)
+- 📚 [Medium Blog](https://enigmaticaura101.medium.com/)
+- 📘 [GitBook Docs](https://enigmatics.gitbook.io/enigmatic-aura)
 
 ---
 
-### 🌐 Let's Connect!
-I'm always open to new ideas, collaborations, and conversations about the future of Web3, design, and community building. Feel free to reach out to me on:
-
-- 🐦 Twitter: [@EnigmaticAura_](https://x.com/EnigmaticAura_)
-- 📖 Medium: [adicahyadir.medium.com](https://adicahyadir.medium.com/)
-
-<p align="center">
-  <a href="https://x.com/EnigmaticAura_">
-    <img src="https://img.shields.io/twitter/follow/EnigmaticAura_?style=social" alt="Twitter Follow">
-  </a>
-  <a href="https://adicahyadir.medium.com/">
-    <img src="https://img.shields.io/badge/Medium-Follow%20me-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Follow">
-  </a>
-</p>
-
----
-
-### ⭐ Fun Fact
-I'm on a mission to explore how design and technology intersect with the decentralized web. Let's build a better, more inclusive digital world together!
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HUpt2s9Pclgt9Vm/giphy.gif" width="480" alt="Web3 Animation">
-</p>
-
----
-
-### 🖥️ Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [How Web 3.0 is Revolutionizing Digital Communities](https://adicahyadir.medium.com/)
-- [Understanding the Fundamentals of Solidity for Smart Contracts](https://adicahyadir.medium.com/)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-### 📫 How to Reach Me:
-For collaborations, opportunities, or just a friendly chat about Web3 and design, you can always connect with me on [Twitter](https://x.com/EnigmaticAura_), [Medium](https://adicahyadir.medium.com/), or check out my [GitBook](https://enigmatics.gitbook.io/enigmatic-aura).
+### 🚀 Let’s Collaborate
+Open to collaborations, projects, or just talking Web3. Feel free to DM me!
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
