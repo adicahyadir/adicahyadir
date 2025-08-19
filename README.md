@@ -11,7 +11,8 @@
 - 🌐 Community Manager  
 - ✍️ Copywriter & Technical Writer  
 - 🛡️ QA Engineering  
-- 🖥️ IT Support  
+- 🖥️ IT Support
+- UI / UX DESIGN
 
 ---
 
