@@ -42,15 +42,15 @@ I’m continuously learning and exploring new technologies:
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=enigmaticaura&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enigmaticaura&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adicahyadir&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adicahyadir&theme=tokyonight" />
 </p>
 
 ---
 
 ### 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enigmaticaura&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adicahyadir&theme=tokyo-night" />
 </p>
 
 ---
