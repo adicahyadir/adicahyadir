@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm EnigmaticAura (Adi)</h1>
 
 <p align="center">
-  <em>🌐 Web3 Enthusiast | 🧪 Testnet Explorer | 🛠️ Node Validator | 🎨 UI/UX Designer | 🛡️ QA Engineer</em>
+  <em>🌐 Web3 Enthusiast | 🛠️ Node Validator | 🎨 UI/UX Designer | 🛡️ QA Engineer</em>
 </p>
 
 ---
