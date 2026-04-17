@@ -1,46 +1,177 @@
-<h1 align="center">Hey there 👋, I'm EnigmaticAura (Adi)</h1>
-
+<h1 align="center">EnigmaticAura ⚡</h1>
 <p align="center">
-  <em>🌐 Web3 Enthusiast | 🛠️ Node Validator | 🎨 UI/UX Designer | 🛡️ QA Engineer</em>
+  <i>Crafting Interfaces, Solving Problems, Exploring the Future of the Web</i>
 </p>
 
 ---
 
-### 🧑‍💼 Roles & Expertise
-- ✍️ Copywriter & Technical Writer  
-- 🛡️ QA Engineer  
-- 🎨 UI/UX Designer  
-- 🖥️ IT Support  
+### 👋 About Me
 
-**Additional Roles:**
-- 📝 Social Media Specialist  
-- 🌐 Community Manager  
+Hi, I’m **Adi**, also known as **EnigmaticAura** in the digital space.
+I blend **technology, design, and communication** to create meaningful digital experiences.
+
+I don’t just build interfaces — I design how people **feel, interact, and connect** with technology.
 
 ---
 
-### 🧠 Learning & Tech Stack
-I’m continuously learning and exploring new technologies:
+### 🎯 Core Focus
 
-- 🌐 Frontend: HTML5, JavaScript, Vue.js  
-- ⚙️ Backend: PHP, Python, Node.js  
-- ⛓️ Web3: Solidity, Hardhat  
-- 🧩 Frameworks: Laravel, CodeIgniter  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,js,vue,php,python,nodejs,solidity,laravel&theme=light" />
-</p>
+* 💻 **Frontend Developer** — Building responsive, interactive, and modern web interfaces
+* 🎨 **UI/UX Designer** — Designing intuitive and user-centered experiences
+* 🖥️ **IT Support** — Solving real-world technical problems efficiently
 
 ---
 
-### 🚀 What I Do
-- 🔍 Exploring Web3 ecosystems & participating in testnets  
-- 🛠️ Running validator nodes & contributing to decentralized networks  
-- 📚 Writing guides, documentation & airdrop insights  
-- 🎨 Designing clean and user-friendly interfaces  
+### 🧩 Extended Skillset
+
+* ✍️ Copywriter & Technical Writer
+* 📝 Social Media Specialist
+* 🌐 Community Manager
+* 🛡️ QA Engineer
 
 ---
 
-### 📊 GitHub Stats
+### 🧠 Tech Philosophy
+
+> “Good design is invisible. Great systems feel effortless.”
+
+* Simplicity over complexity
+* Functionality over hype
+* User experience over ego
+
+---
+
+### 🧠 Skills & Tech Stack
+
+I focus on modern frontend development and user-centered design using industry-standard tools.
+
+---
+
+#### 💻 Frontend Development
+
+**Core Frameworks & Libraries**
+
+* React.js
+* Vue.js
+* Angular
+* Svelte
+* Next.js
+
+**Build Tools & Bundlers**
+
+* Vite
+* Parcel
+* Rollup
+
+**Development Environment**
+
+* Visual Studio Code (VS Code)
+* WebStorm
+* Sublime Text
+
+**Debugging & Testing**
+
+* Chrome DevTools
+* Lighthouse
+* Postman
+* Memlab
+
+**Styling & UI**
+
+* Tailwind CSS
+* Sass / SCSS
+
+**Package Managers & Utilities**
+
+* NPM / Yarn / PNPM
+* Git & GitHub
+* Prettier / ESLint
+* Apidog
+
+**State Management & Performance**
+
+* Redux Toolkit
+* React Query
+
+---
+
+#### 🎨 UI/UX Design
+
+* Figma (Primary Tool)
+* Balsamiq
+* Adobe XD
+
+---
+
+#### 🖥️ IT Support
+
+* AnyDesk / TeamViewer
+* Windows & Linux Environment
+* Basic Networking Tools (Ping, Traceroute, IP Config)
+* System Monitoring & Troubleshooting
+
+---
+
+#### ✍️ Content & Documentation
+
+* Notion
+* Google Docs
+* Medium
+* Grammarly
+
+---
+
+#### 🌐 Social Media & Community
+
+* Discord
+* Telegram
+* Meta Business Suite
+* Buffer / Hootsuite
+
+---
+
+#### 🛡️ QA & Testing
+
+* Manual Testing
+* Chrome DevTools (Debugging)
+* Postman (API Testing)
+* Trello / Jira (Bug Tracking)
+
+---
+
+#### ⚡ Productivity & Collaboration
+
+* Slack
+* Google Workspace
+* Trello / Notion
+* Zoom / Google Meet
+
+---
+
+### 🚀 Currently Exploring
+
+* ⛓️ **Web3**
+  Learning smart contracts, decentralized ecosystems, and actively exploring testnets
+
+* 🌐 **Web4**
+  Exploring AI integration, decentralized identity, and the future of the internet
+
+> I’m not just following trends — I’m studying where the web is going next.
+
+---
+
+### 🧱 What I Build
+
+* Clean & modern UI interfaces
+* Responsive frontend applications
+* User-focused digital experiences
+* Technical documentation & guides
+* Community-driven platforms
+
+---
+
+### 📊 GitHub Insights
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=adicahyadir&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adicahyadir&theme=tokyonight" />
@@ -48,28 +179,33 @@ I’m continuously learning and exploring new technologies:
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Activity Graph
+
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adicahyadir&theme=tokyo-night" />
 </p>
 
 ---
 
-### 🌐 Connect with Me
-- 🔗 [Linktree](https://linktr.ee/enigmaticaura)
-- 🐦 [Twitter / X](https://x.com/EnigmaticAura_)
-- 📷 [Instagram](https://www.instagram.com/enigmaticaura101)
-- 📘 [Facebook](https://www.facebook.com/enigmaticaura101/)
-- 🎥 [YouTube](https://www.youtube.com/@enigmaticaura101)
-- 💬 [Telegram](https://t.me/enigmaticaura404)
-- 📚 [Medium Blog](https://enigmaticaura101.medium.com/)
-- 📘 [GitBook Docs](https://enigmatics.gitbook.io/enigmatic-aura)
+### 🌍 Digital Presence
+
+* 🔗 https://linktr.ee/enigmaticaura
+* 🐦 https://x.com/EnigmaticAura__
+* 📷 https://instagram.com/enigmaticaura101
+* 📚 https://enigmaticaura101.medium.com/
+* 📘 https://enigmatics.gitbook.io/enigmatic-aura
 
 ---
 
-### 🤝 Let’s Collaborate
-I’m open to collaborations, exciting projects, or just discussing Web3 🚀  
-Feel free to reach out anytime!
+### 🤝 Let’s Build Something Meaningful
+
+I’m open to:
+
+* Collaboration
+* Freelance projects
+* Tech & creative discussions
+
+If you’re building something interesting — let’s connect 🚀
 
 <p align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
