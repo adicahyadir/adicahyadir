@@ -7,7 +7,7 @@
 
 ### 👋 About Me
 
-Hi, I’m **Adi**, also known as **EnigmaticAura** in the digital space.
+Hi, I’m **Adi**, also known as **EnigmaAura** in the digital space.
 I blend **technology, design, and communication** to create meaningful digital experiences.
 
 I don’t just build interfaces — I design how people **feel, interact, and connect** with technology.
