@@ -1,4 +1,4 @@
-<h1 align="center">EnigmaticAura ⚡</h1>
+<h1 align="center">EnigmaAura ⚡</h1>
 <p align="center">
   <i>Crafting Interfaces, Solving Problems, Exploring the Future of the Web</i>
 </p>
