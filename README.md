@@ -190,7 +190,7 @@ I focus on modern frontend development and user-centered design using industry-s
 ### 🌍 Digital Presence
 
 * 🔗 https://linktr.ee/enigmaticaura
-* 🐦 https://x.com/EnigmaticAura__
+* 🐦 https://x.com/EnigmaticAura_
 * 📷 https://instagram.com/enigmaticaura101
 * 📚 https://enigmaticaura101.medium.com/
 * 📘 https://enigmatics.gitbook.io/enigmatic-aura
